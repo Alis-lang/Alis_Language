@@ -118,3 +118,10 @@ late ==
 _  == underline is used as target pointer
 
 -(dash) == to make compound word 
+
+## Patch Note
+
+20150225 minor changes:
+ridikuli => ridik
+
+	
