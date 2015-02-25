@@ -121,7 +121,10 @@ _  == underline is used as target pointer
 
 ## Patch Note
 
-20150225 minor changes:
+* 20150225 minor changes:
+
 ridikuli => ridik
+
+
 
 	
