@@ -125,6 +125,8 @@ _  == underline is used as target pointer
 
 ridikuli => ridik
 
+* 20150227 major changes:
 
+changed many words (mostly length)
 
 	
