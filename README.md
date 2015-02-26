@@ -127,6 +127,6 @@ ridikuli => ridik
 
 * 20150227 major changes:
 
-changed many words (mostly length)
+fixed many many words containing problems
 
 	
