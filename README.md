@@ -1,6 +1,13 @@
 # Alis_Language
 
-Support Page for Alis language, below is its rule/syntax
+Project Page for Alis language, below is its rule/syntax
+
+Alis Language is in early stage, ver0.1 will be announced when following goals are achieved
+
+* Syntax is optimised
+* At least 250 distint words
+* lexicons are optimised
+* Dictionary, Style Guide, Documentation are written
 
 ## Vowels and Consonants 
 
