@@ -23,7 +23,7 @@ O == /o̞/IPA307 , ‘**c**ore’ ‘**t**oll’  o could be pronounced either s
 
 U == /u/IPA308 and /ʊ/IPA321 where /u/ is preferred, ‘p**u**t’ ‘r**u**de’ ‘h**oo**k’ ‘r**u**ral’
 
-EU == /ə/ Schwa vowel, not equal to /ɜ/  above nor as ‘a’ in ‘about’, its very flat and neutral.  e in ‘romanc**e**’   e in French ‘l**e**’ ‘d**e**’  as in English ‘**d**rill’ ‘**t**roll’  where vowel is empty between d~rill and t~roll.
+EU == /ə/ Schwa vowel, it does not equal to /ɜ/  above nor as ‘a’ in ‘about’, its very flat and neutral sound. English e in ‘romanc**e**’  ‘**d**rill’ ‘**t**roll’  where vowel is empty between d~rill t~roll romanc~e . And e in French ‘l**e**’ ‘d**e**’ 
 */ɯ/ IPA316 sound is acceptable*
 
 IU / I` == /ɜ/ IPA326 , ‘b**i**rd’ ‘d**i**rt’ ‘t**e**rminal’ 
