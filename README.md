@@ -55,7 +55,7 @@ C,Q,W,Y,Z,X,V may be used for functional and grammatical purposes.
 
 ### [Lexical categories]
 
-Infinitive  -i
+~~Infinitive  -i~~
 
 Noun -o
 
@@ -63,13 +63,11 @@ Adjective -a
 
 Adverb -e
 
-Verb -u
+Present tense : -is
 
-Present : -s
+Past tense -in
 
-Past -m
-
-Future -n
+Future tense -ich
 
 ### [Moodifier]
 
@@ -125,15 +123,5 @@ late ==
 _  == underline is used as target pointer
 
 -(dash) == to make compound word 
-
-## Patch Note
-
-* 20150225 minor changes:
-
-ridikuli => ridik
-
-* 20150227 major changes:
-
-fixed many many words containing problems
 
 	
