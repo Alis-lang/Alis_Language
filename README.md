@@ -2,6 +2,8 @@
 
 Project Page for Alis language, below is its rule/syntax
 
+[Ebook for learning Alis Language](http://ponga.gitbooks.io/alis-language)
+
 Alis Language is in early stage, ver0.1 will be announced when following goals are achieved
 
 * Syntax is optimised
