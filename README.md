@@ -73,17 +73,17 @@ Future tense -ich
 
 ### [Moodifier]
 
-Conditional  *것이다 == would  -or
+Conditional   == would  -or
 
-indicative/declarative *선언== -en , or anything without suffix is indicative
+indicative/declarative == -en , or anything without suffix is indicative
 
-Imperative*명령 == -ad 
+Imperative== -ad 
 
 Potential == can, able -an
 
-Desirative *부탁,요구== -um
+Desirative　== -um
 
-interrogative *의문형 == -im
+interrogative == -im
 
 ### [Perspectivate]
 
